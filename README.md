@@ -28,7 +28,7 @@
 
 <h3> Details of various datasets used for model development : </h3>
 <ul>
-<li><p><b>Cancer</b> : cancer.csv [In the repository]</p></li>
+<li><p><b>Cancer</b> : Brest cancer.csv [In the repository]</p></li>
 <li><p><b>Diabetes</b> : diabetes.csv [In the repository]</p></li>
 <li><p><b>Heart</b> : heart.csv [In the repository]</p></li>
 <li><p><b>Liver</b> : https://www.kaggle.com/uciml/indian-liver-patient-records </p></li>
