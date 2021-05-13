@@ -1,6 +1,6 @@
 # ML-MT-WebApp
+![shutterstock_1153763470-1](https://user-images.githubusercontent.com/62024355/118172628-371a9280-b44a-11eb-9c97-a73239b67e4d.jpg)
 
-<img src="https://user-images.githubusercontent.com/62024355/118172628-371a9280-b44a-11eb-9c97-a73239b67e4d.jpg' width="1100" height="300" />
 <p> This is one of major project of my undergraduate degree program.</p>
 <p>Here, I have developed a disease predicting web app which using the concept of machine learning makes predictions about various diseases like Malaria, Pneumonia, Diabetes etc.</p>
 
