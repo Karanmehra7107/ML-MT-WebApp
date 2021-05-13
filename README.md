@@ -1,4 +1,4 @@
-# ML-MT-WebApp
+# Medical Diagnosis A Machine Learning Based Web Application
 ![shutterstock_1153763470-1](https://user-images.githubusercontent.com/62024355/118172628-371a9280-b44a-11eb-9c97-a73239b67e4d.jpg)
 
 <p> This is one of major project of my undergraduate degree program.</p>
