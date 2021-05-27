@@ -4,6 +4,28 @@
 <p> This is one of major project of my undergraduate degree program.</p>
 <p>Here, I have developed a disease predicting web app which using the concept of machine learning makes predictions about various diseases like Malaria, Pneumonia, Diabetes etc.</p>
 
+## Directory Tree 
+```
+├── css
+├── fonts
+├── js
+├── images
+│   ├──train.jpeg
+│   ├── rail.jpg
+│   ├── irctc.png
+│   ├── ROYAL.JFIF
+│   └── Download.svg
+├── index.html
+├── index1.html
+├── index2.html
+├── index3.html
+├── index4.html
+├── index5.html
+└── README.md
+
+```
+
+
 <hr>
 <h3> Down below are the names of the various model files used:</h3>
 <ul>
